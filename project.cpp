@@ -10,5 +10,6 @@ int add(int a, int b)
 int main()
 {
 	printf("this is my first project to learn Git");
+	printf("I have learned some Git command");
 	return 0;
 }
