@@ -15,6 +15,6 @@ int multiply(int a, int b)
 int main()
 {
 	printf("this is my first project to learn Git");
-	printf("I have learned some Git command");
+	printf("I have learned some Git command, Frank Goog luck you");
 	return 0;
 }
